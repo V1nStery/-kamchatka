@@ -3362,6 +3362,9 @@ a {
   display: flex;
   gap: 25px;
 }
+.top-swiper__wrapper.swiper-wrapper {
+    min-height: 268px;
+  }
 @media (max-width: 991.8px) {
   .top__socials {
     justify-content: flex-end;
